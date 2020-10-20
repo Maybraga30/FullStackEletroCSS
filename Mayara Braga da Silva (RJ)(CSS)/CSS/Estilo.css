@@ -1,0 +1,106 @@
+p {  
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 16px;
+}
+
+h2 { 
+    font-family: Arial, Helvetica, sans-serif; 
+    color: purple;
+}
+
+.classeh3 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: indigo;
+}
+
+#tabelaloja {
+    border:0;
+    width: 100%;
+    cellpanding: 20;
+    
+}
+
+#tdloja {
+    width: 33%;
+    text-align: center;
+    border: 2px solid indigo;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tabelacontato {
+    border: 0;
+    width: 100%;
+    cellpanding:20;
+}
+
+#tdcontato {
+    width:50%;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#pagamento { 
+    text-align: center;
+    color: indigo;
+    text-decoration-line: underline;
+    font-weight: bolder;
+
+}
+
+#rodape {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8px;
+}
+
+.menu {
+    margin-top: 5px;
+    width:100%;
+    background-color:SlateBlue;
+    text-align: center;
+    
+}
+
+.menu img {
+    align-content: space-between;
+}
+.menu a {
+    margin-top: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    width: 25%
+}
+
+
+#formulariocontato label {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: indigo 1px solid;
+}
+
+#formulariocontato {
+    padding: 2px;
+    margin-top: 5px;
+    border: 2px indigo dotted;
+    width: 45%;
+}
+
+#formulariocontato textarea {
+    width:300px; 
+}
+
+
+
+
+
+
